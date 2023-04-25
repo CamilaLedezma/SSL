@@ -1,4 +1,4 @@
-**Autora de la resolcion:**
+**Autora de la resolucion:**
 - github [CamilaLedezma](https://github.com/CamilaLedezma)
 - legajo 1688911
 - _Ledezma Camila_
